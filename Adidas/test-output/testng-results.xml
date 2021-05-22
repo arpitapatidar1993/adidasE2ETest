@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35018" started-at="2021-05-22T10:11:55Z" finished-at="2021-05-22T10:12:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35018" started-at="2021-05-22T10:11:55Z" finished-at="2021-05-22T10:12:30Z">
+      <class name="TestChallenge.Adidas.EndToEndTestNg">
+        <test-method status="PASS" signature="capabilities()[pri:0, instance:TestChallenge.Adidas.EndToEndTestNg@6500df86]" name="capabilities" is-config="true" duration-ms="14756" started-at="2021-05-22T12:11:55Z" finished-at="2021-05-22T12:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capabilities -->
+        <test-method status="PASS" signature="endToend()[pri:0, instance:TestChallenge.Adidas.EndToEndTestNg@6500df86]" name="endToend" duration-ms="19277" started-at="2021-05-22T12:12:10Z" finished-at="2021-05-22T12:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToend -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:TestChallenge.Adidas.EndToEndTestNg@6500df86]" name="endSession" is-config="true" duration-ms="962" started-at="2021-05-22T12:12:29Z" finished-at="2021-05-22T12:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- TestChallenge.Adidas.EndToEndTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
